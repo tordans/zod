@@ -489,6 +489,7 @@ z.number();
 z.bigint();
 z.boolean();
 z.date();
+z.datetime(); // since 3.20
 z.symbol();
 
 // empty types
